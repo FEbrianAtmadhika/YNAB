@@ -1,0 +1,4 @@
+storePassword=ghoulhun
+keyPassword=ghoulhun
+keyAlias=my-key-alias
+storeFile=../app/upload-keystore.jks
